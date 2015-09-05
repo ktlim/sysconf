@@ -1,0 +1,261 @@
+{
+    "plateScale": 20.0, 
+    "transformDict": {
+        "nativeSys": "FocalPlane", 
+        "transforms": {
+            "Pupil": {
+                "transform": {
+                    "multi": {
+                        "transformDict": null
+                    }, 
+                    "affine": {
+                        "translation": [
+                            0.0, 
+                            0.0
+                        ], 
+                        "linear": [
+                            1.0, 
+                            0.0, 
+                            0.0, 
+                            1.0
+                        ]
+                    }, 
+                    "inverted": {
+                        "transform": {
+                            "coeffs": [
+                                0.0, 
+                                10313.240312354817, 
+                                0.0, 
+                                9539.747288928207
+                            ]
+                        }
+                    }, 
+                    "name": "inverted", 
+                    "radial": {
+                        "coeffs": null
+                    }
+                }
+            }
+        }
+    }, 
+    "detectorList": [
+        {
+            "bbox_y0": 0, 
+            "bbox_y1": 3999, 
+            "bbox_x1": 4071, 
+            "bbox_x0": 0, 
+            "name": "R:2,2 S:0,0", 
+            "pixelSize_x": 0.01, 
+            "transformDict": {
+                "nativeSys": "Pixels", 
+                "transforms": null
+            }, 
+            "refpos_x": 2035.5, 
+            "refpos_y": 1999.5, 
+            "pixelSize_y": 0.01, 
+            "detectorType": 0, 
+            "offset_x": -42.26073, 
+            "offset_y": -42.21914, 
+            "transposeDetector": false, 
+            "yawDeg": 90.0, 
+            "rollDeg": 0.0, 
+            "serial": "R22_S00_description/camera", 
+            "pitchDeg": 0.0, 
+            "id": 2200
+        }, 
+        {
+            "bbox_y0": 0, 
+            "bbox_y1": 3999, 
+            "bbox_x1": 4071, 
+            "bbox_x0": 0, 
+            "name": "R:2,2 S:0,1", 
+            "pixelSize_x": 0.01, 
+            "transformDict": {
+                "nativeSys": "Pixels", 
+                "transforms": null
+            }, 
+            "refpos_x": 2035.5, 
+            "refpos_y": 1999.5, 
+            "pixelSize_y": 0.01, 
+            "detectorType": 0, 
+            "offset_x": -42.23373, 
+            "offset_y": 0.00433, 
+            "transposeDetector": false, 
+            "yawDeg": 90.0, 
+            "rollDeg": 0.0, 
+            "serial": "R22_S01_description/camera", 
+            "pitchDeg": 0.0, 
+            "id": 2201
+        }, 
+        {
+            "bbox_y0": 0, 
+            "bbox_y1": 3999, 
+            "bbox_x1": 4071, 
+            "bbox_x0": 0, 
+            "name": "R:2,2 S:0,2", 
+            "pixelSize_x": 0.01, 
+            "transformDict": {
+                "nativeSys": "Pixels", 
+                "transforms": null
+            }, 
+            "refpos_x": 2035.5, 
+            "refpos_y": 1999.5, 
+            "pixelSize_y": 0.01, 
+            "detectorType": 0, 
+            "offset_x": -42.18801, 
+            "offset_y": 42.206, 
+            "transposeDetector": false, 
+            "yawDeg": 90.0, 
+            "rollDeg": 0.0, 
+            "serial": "R22_S02_description/camera", 
+            "pitchDeg": 0.0, 
+            "id": 2202
+        }, 
+        {
+            "bbox_y0": 0, 
+            "bbox_y1": 3999, 
+            "bbox_x1": 4071, 
+            "bbox_x0": 0, 
+            "name": "R:2,2 S:1,0", 
+            "pixelSize_x": 0.01, 
+            "transformDict": {
+                "nativeSys": "Pixels", 
+                "transforms": null
+            }, 
+            "refpos_x": 2035.5, 
+            "refpos_y": 1999.5, 
+            "pixelSize_y": 0.01, 
+            "detectorType": 0, 
+            "offset_x": -0.00657, 
+            "offset_y": -42.29467, 
+            "transposeDetector": false, 
+            "yawDeg": 90.0, 
+            "rollDeg": 0.0, 
+            "serial": "R22_S10_description/camera", 
+            "pitchDeg": 0.0, 
+            "id": 2210
+        }, 
+        {
+            "bbox_y0": 0, 
+            "bbox_y1": 3999, 
+            "bbox_x1": 4071, 
+            "bbox_x0": 0, 
+            "name": "R:2,2 S:1,1", 
+            "pixelSize_x": 0.01, 
+            "transformDict": {
+                "nativeSys": "Pixels", 
+                "transforms": null
+            }, 
+            "refpos_x": 2035.5, 
+            "refpos_y": 1999.5, 
+            "pixelSize_y": 0.01, 
+            "detectorType": 0, 
+            "offset_x": 0.00452, 
+            "offset_y": 0.02711, 
+            "transposeDetector": false, 
+            "yawDeg": 90.0, 
+            "rollDeg": 0.0, 
+            "serial": "R22_S11_description/camera", 
+            "pitchDeg": 0.0, 
+            "id": 2211
+        }, 
+        {
+            "bbox_y0": 0, 
+            "bbox_y1": 3999, 
+            "bbox_x1": 4071, 
+            "bbox_x0": 0, 
+            "name": "R:2,2 S:1,2", 
+            "pixelSize_x": 0.01, 
+            "transformDict": {
+                "nativeSys": "Pixels", 
+                "transforms": null
+            }, 
+            "refpos_x": 2035.5, 
+            "refpos_y": 1999.5, 
+            "pixelSize_y": 0.01, 
+            "detectorType": 0, 
+            "offset_x": 0.05954, 
+            "offset_y": 42.22654, 
+            "transposeDetector": false, 
+            "yawDeg": 90.0, 
+            "rollDeg": 0.0, 
+            "serial": "R22_S12_description/camera", 
+            "pitchDeg": 0.0, 
+            "id": 2212
+        }, 
+        {
+            "bbox_y0": 0, 
+            "bbox_y1": 3999, 
+            "bbox_x1": 4071, 
+            "bbox_x0": 0, 
+            "name": "R:2,2 S:2,0", 
+            "pixelSize_x": 0.01, 
+            "transformDict": {
+                "nativeSys": "Pixels", 
+                "transforms": null
+            }, 
+            "refpos_x": 2035.5, 
+            "refpos_y": 1999.5, 
+            "pixelSize_y": 0.01, 
+            "detectorType": 0, 
+            "offset_x": 42.28587, 
+            "offset_y": -42.28218, 
+            "transposeDetector": false, 
+            "yawDeg": 90.0, 
+            "rollDeg": 0.0, 
+            "serial": "R22_S20_description/camera", 
+            "pitchDeg": 0.0, 
+            "id": 2220
+        }, 
+        {
+            "bbox_y0": 0, 
+            "bbox_y1": 3999, 
+            "bbox_x1": 4071, 
+            "bbox_x0": 0, 
+            "name": "R:2,2 S:2,1", 
+            "pixelSize_x": 0.01, 
+            "transformDict": {
+                "nativeSys": "Pixels", 
+                "transforms": null
+            }, 
+            "refpos_x": 2035.5, 
+            "refpos_y": 1999.5, 
+            "pixelSize_y": 0.01, 
+            "detectorType": 0, 
+            "offset_x": 42.23754, 
+            "offset_y": 0.03647, 
+            "transposeDetector": false, 
+            "yawDeg": 90.0, 
+            "rollDeg": 0.0, 
+            "serial": "R22_S21_description/camera", 
+            "pitchDeg": 0.0, 
+            "id": 2221
+        }, 
+        {
+            "bbox_y0": 0, 
+            "bbox_y1": 3999, 
+            "bbox_x1": 4071, 
+            "bbox_x0": 0, 
+            "name": "R:2,2 S:2,2", 
+            "pixelSize_x": 0.01, 
+            "transformDict": {
+                "nativeSys": "Pixels", 
+                "transforms": null
+            }, 
+            "refpos_x": 2035.5, 
+            "refpos_y": 1999.5, 
+            "pixelSize_y": 0.01, 
+            "detectorType": 0, 
+            "offset_x": 42.29452, 
+            "offset_y": 42.23308, 
+            "transposeDetector": false, 
+            "yawDeg": 90.0, 
+            "rollDeg": 0.0, 
+            "serial": "R22_S22_description/camera", 
+            "pitchDeg": 0.0, 
+            "id": 2222
+        }
+    ], 
+    "radialCoeffs": null, 
+    "name": "LSST"
+}

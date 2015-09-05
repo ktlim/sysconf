@@ -1,0 +1,12 @@
+{
+	"versionList": [
+	{
+		"versionName": "nominal",
+		"validityEnd": "2019-10-31T23:59:59Z"
+	},
+	{
+		"versionName": "v1",
+		"validityStart": "2019-11-01T00:00:00Z"
+	}
+	]
+}
